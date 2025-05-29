@@ -12,7 +12,6 @@
 > **Published Research**: Advanced AI-driven optimization for job-shop scheduling in Industry 4.0 manufacturing environments  
 > **My Leadership Role**: Software development and core algorithm implementation (Sections 2 & 3)  
 > **Impact**: Significant improvement in scheduling efficiency, resource utilization, and tool management  
-> **Source Code**: Available at [GitHub Repository](https://github.com/Tharindupriyaharshana/Optimizing-Job-Shop-Scheduling-with-AI)
 
 ## 🎯 Research Overview
 
